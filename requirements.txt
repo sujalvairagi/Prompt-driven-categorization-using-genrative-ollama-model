@@ -1,0 +1,9 @@
+# ollama (Ollama Python Software Development Kit)
+# This Python package is used to communicate with a locally running
+# Ollama (Local Large Language Model Runtime) server from Python code.
+
+# - The Ollama application itself is NOT installed via pip.
+# - Ollama be installed separately at the system level
+#   and running as a background service.
+ollama
+os
