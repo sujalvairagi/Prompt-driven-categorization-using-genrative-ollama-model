@@ -1,46 +1,77 @@
 Operating Systems:
 
+Operating systems are software that manages hardware and system resources. They provide a platform for running applications and services.
+
 1. Windows 10
 2. Windows 11
 3. Android Operating System
+4. Google Chrome OS
 
 Development Tools:
 
+Development tools are used to build, test, debug, or deploy software. They provide a platform for creating and managing code.
+
 1. Visual Studio Code
-
-Programming Libraries and Frameworks:
-
-1. PyTorch
-2. TensorFlow
-3. NumPy
-4. Pandas
-5. OpenCV
+2. Docker
+3. Kubernetes
+4. Git
+5. GitHub
+6. Postman
+7. Figma
+8. Slack
+9. Notion
+10. Zoom
+11. Jupyter Notebook
+12. PyTorch
+13. TensorFlow
+14. NumPy
+15. Pandas
+16. OpenCV
+17. MySQL
+18. MongoDB
 
 Databases:
 
-1. MySQL
-2. MongoDB
-3. Postgresql
+Databases are systems used to store and manage structured or unstructured data. They provide a platform for storing and retrieving information.
+
+1. PostgreSQL
+2. MySQL
+3. MongoDB
 
 Cloud and Infrastructure Services:
 
-1. Docker
-2. Kubernetes
+Cloud and infrastructure services are remote computing, storage, and deployment services. They provide a platform for running applications and services in the cloud.
+
+1. Google Chrome
+2. Docker
+3. Kubernetes
+4. Git
+5. GitHub
+6. Postman
+7. Figma
+8. Slack
+9. Notion
+10. Zoom
+11. Jupyter Notebook
+12. PyTorch
+13. TensorFlow
+14. NumPy
+15. Pandas
+16. OpenCV
+17. MySQL
+18. MongoDB
 
 Collaboration and Productivity Tools:
+
+Collaboration and productivity tools are used for communication, documentation, and workflow. They provide a platform for collaborating on tasks and projects.
 
 1. Slack
 2. Notion
 3. Zoom
-4. Figma
-5. GitHub
-6. Tableau
 
 Version Control Tools:
 
+Version control tools are used for source code versioning and collaboration. They provide a platform for managing changes to code over time.
+
 1. Git
-
-Apps:
-
-1. Google Chrome
-2. Postman
+2. GitHub
