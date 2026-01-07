@@ -6,8 +6,8 @@ import os
 # -----------------------------
 model = "llava:7b"  # Local vision-language model (works as text model also)
 
-input_file = "E:\ml_end to end project\ollama_local\data\hardware_list"
-output_file = "E:\ml_end to end project\ollama_local\data\output_software_artifact"
+input_file = "data\software_list"
+output_file = "data\categorized_software_list"
 
 # -----------------------------
 # Check input file
